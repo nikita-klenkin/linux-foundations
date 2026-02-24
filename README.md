@@ -16,7 +16,7 @@ This repository documents my practical Linux training, including setup, command-
 ⬜ 05 - Permissions  
 ⬜ 06 - Processes & Services  
 ⬜ 07 - Networking Basics  
-⬜ 08 - SSH & Security
+⬜ 08 - SSH & Security  
 ⬜ 09 - Bash Scripting  
 ⬜ 10 - Mini Server Project
 
@@ -33,4 +33,5 @@ Build strong Linux fundamentals required for Cloud and DevOps roles.
 - Host OS: Windows 11  
 - Virtualization: Oracle VirtualBox  
 - Guest OS: Ubuntu Server 24.04 LTS  
+
 - Network Mode: NAT  
