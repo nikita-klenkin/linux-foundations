@@ -11,7 +11,7 @@ This repository documents my practical Linux training, including setup, command-
 ✅ 00 - Lab Setup  
 ✅ 01 - Basic Commands  
 ✅ 02 - Package Management  
-⬜ 03 - Filesystem Structure  
+✅ 03 - Filesystem Structure  
 ⬜ 04 - Users & Groups  
 ⬜ 05 - Permissions  
 ⬜ 06 - Processes & Services  
