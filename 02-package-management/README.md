@@ -134,7 +134,7 @@ systemctl status nginx
 
 ---
 
-What I Learned
+## What I Learned
 
 - How Ubuntu retrieves packages from repositories
 - The difference between updating the package index and upgrading software
