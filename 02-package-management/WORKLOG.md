@@ -17,6 +17,7 @@ Command used:
 ```bash
 sudo apt update
 ```
+
 Result:
 - Package lists were downloaded from official Ubuntu repositories.
 - No software was instlled during this step.
