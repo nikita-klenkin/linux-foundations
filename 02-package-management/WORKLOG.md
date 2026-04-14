@@ -41,7 +41,7 @@ Result:
 Lesson:
 - apt upgrade installs newer version of already installed packages.
 
-## 2026.03.11 - Continued Work
+## 2026-03-11 - Continued Work
 
 ### Step 3 - Install nginx and check status
 
