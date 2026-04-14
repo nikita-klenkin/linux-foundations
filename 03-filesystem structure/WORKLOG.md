@@ -2,7 +2,7 @@
 
 ---
 
-## 2026.04.13 - Understanding filesystem Structure
+## 2026-04-13 - Understanding filesystem Structure
 
 ### Goal
 
