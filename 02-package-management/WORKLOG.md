@@ -2,7 +2,7 @@
 
 ---
 
-## 2026.02.27 - Package Management with APT
+## 2026-02-27 - Package Management with APT
 
 ### Goal 
 
