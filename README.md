@@ -12,13 +12,12 @@ This repository documents my practical Linux training, including setup, command-
 ✅ 01 - Basic Commands  
 ✅ 02 - Package Management  
 ✅ 03 - Filesystem Structure  
-⬜ 04 - Users & Groups  
-⬜ 05 - Permissions  
-⬜ 06 - Processes & Services  
-⬜ 07 - Networking Basics  
-⬜ 08 - SSH & Security  
-⬜ 09 - Bash Scripting  
-⬜ 10 - Mini Server Project
+⬜ 04 - Users, Groups and Permissions 
+⬜ 05 - Processes & Services  
+⬜ 06 - Networking Basics  
+⬜ 07 - SSH & Security  
+⬜ 08 - Bash Scripting  
+⬜ 09 - Mini Server Project
 
 ---
 
