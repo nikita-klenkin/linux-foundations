@@ -13,7 +13,7 @@ This repository documents my practical Linux training, including setup, command-
 ✅ 02 - Package Management  
 ✅ 03 - Filesystem Structure  
 ✅ 04 - Users, Groups & Permissions  
-⬜ 05 - Processes & Services  
+✅ 05 - Processes & Services  
 ⬜ 06 - Networking Basics  
 ⬜ 07 - SSH & Security  
 ⬜ 08 - Bash Scripting  
