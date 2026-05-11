@@ -1,4 +1,4 @@
-x   # Worklog - 06 Networking Basics
+# Worklog - 06 Networking Basics
 
 ---
 
