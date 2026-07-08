@@ -16,7 +16,7 @@ This repository documents my practical Linux training, including setup, command-
 ✅ 05 - Processes & Services  
 ✅ 06 - Networking Basics  
 ✅ 07 - SSH & Security  
-⬜ 08 - Bash Scripting  
+✅ 08 - Bash Scripting  
 ⬜ 09 - Mini Server Project
 
 ---
