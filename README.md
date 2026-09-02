@@ -17,7 +17,7 @@ This repository documents my practical Linux journey through hands-on projects w
 - ✅ 06 - Networking Basics  
 - ✅ 07 - SSH & Security  
 - ✅ 08 - Bash Scripting  
-- ⬜ 09 - Mini Server Project
+- ✅ 09 - Mini Server Project
 
 ---
 
